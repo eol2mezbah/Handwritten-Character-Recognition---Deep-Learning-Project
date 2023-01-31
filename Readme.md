@@ -8,7 +8,8 @@ We've collected our dataset from Kaggle that contains 37000+ hand written Englis
 https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
 ## Model
-After the collection of the dataset, we applied CNN model and tried to predict the accuracy.  
+After the collection of the dataset, we applied CNN model and tried to predict the accuracy. 
+
 ![alt text](https://github.com/eol2mezbah/Handwritten-Character-Recognition---Deep-Learning-Project/blob/main/Model.jpg)
 
 ## Results
